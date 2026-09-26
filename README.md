@@ -88,7 +88,7 @@ game logic, and software development concepts.
 
 **Tech:** Java · Maven · Tiled · NetBeans
 
-🔗 [View Repository](https://github.com/kiacodesss/ANIANA-Trust-System-Game)
+🔗 [View Repository](https://github.com/kiacodesss/ANIANA)
 
 ---
 
