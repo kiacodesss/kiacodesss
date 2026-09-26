@@ -1,15 +1,31 @@
+<img src="./assets/banner.gif">
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 # Hi, I'm Kiana 👋
 
 ### Computer Science Student | Aspiring Software & Web Developer
 
 I'm a Computer Science student interested in software development,
 web development, and building practical technology solutions.
+<br>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/pixel-card.png" width="350">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌌 About Me
 
-- 🎓 Computer Science student
+- 🎓 BS Computer Science student
 - 💻 Interested in software and web development
 - 🧩 Enjoy building projects and solving technical problems
 - 🌱 Continuously learning and expanding my development skills
@@ -46,7 +62,6 @@ web development, and building practical technology solutions.
 ![Trello](https://img.shields.io/badge/Trello-%233B82F6.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </div>
----
 
 ## 📊 GitHub Stats
 
@@ -71,7 +86,9 @@ web development, and building practical technology solutions.
 A Java-based game developed to explore object-oriented programming,
 game logic, and software development concepts.
 
-**Java · Maven · Tiled · NetBeans**
+**Tech:** Java · Maven · Tiled · NetBeans
+
+🔗 [View Repository](https://github.com/kiacodesss/ANIANA-Trust-System-Game)
 
 ---
 
