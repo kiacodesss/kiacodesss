@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 # Hi, I'm Kiana 👋
 
@@ -11,11 +11,12 @@
 I'm a Computer Science student interested in software development,
 web development, and building practical technology solutions.
 <br>
+<br>
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
-<img src="./assets/pixel-card.png" width="350">
+<img src="./assets/pixel-card.png" width="390">
 
 </td>
 </tr>
@@ -89,6 +90,15 @@ game logic, and software development concepts.
 **Tech:** Java · Maven · Tiled · NetBeans
 
 🔗 [View Repository](https://github.com/kiacodesss/ANIANA)
+
+### 💸 Bill Splitter App
+
+A Java desktop application that helps groups split expenses and
+track payments during hangouts, trips, or events.
+
+**Tech:** Java · Maven · NetBeans
+
+🔗 [View Repository](https://github.com/kiacodesss/bill-splitter-app)
 
 ---
 
