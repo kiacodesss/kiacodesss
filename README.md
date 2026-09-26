@@ -100,6 +100,15 @@ track payments during hangouts, trips, or events.
 
 🔗 [View Repository](https://github.com/kiacodesss/bill-splitter-app)
 
+### 🍜 Food Ordering Kiosk & Kitchen System
+
+A Java Swing-based food ordering system with an integrated kitchen
+terminal for managing and displaying customer orders.
+
+**Tech:** Java · Java Swing · NetBeans
+
+🔗 [View Repository](https://github.com/kiacodesss/food-ordering-and-kitchen-system)
+
 ---
 
 ## ✨ Currently Learning
