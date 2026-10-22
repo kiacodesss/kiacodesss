@@ -30,7 +30,7 @@ web development, and building practical technology solutions.
 - 💻 Interested in software and web development
 - 🧩 Enjoy building projects and solving technical problems
 - 🌱 Continuously learning and expanding my development skills
-- 💡 Currently working on <b>Nebulobby</b>, a little website for learning how to code with HTML and CSS.
+- ⭐ Currently working on <b>Nebulobby</b>, a little website for learning how to code with HTML and CSS.
 
 ---
 
@@ -114,7 +114,7 @@ terminal for managing and displaying customer orders.
 
 ## ✨ Currently Learning
 
-- Data Structures & Algorithms
 - Python Development
 - Web Application Development
+- Data Structures & Algorithms
 - Software Engineering Practices
